@@ -11,6 +11,7 @@ pip2 install requests
 pip2 install mechanize 
 
 pkg install git 
+
 git clone https://github.com/Shohagahsanjoy/likepro
 
 cd likepro
